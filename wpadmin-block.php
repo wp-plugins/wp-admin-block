@@ -3,7 +3,7 @@
 	Plugin Name: WP Admin Block
 	Plugin URI: http://blog.blackbirdi.com/
 	Description: Block all your users from accessing the admin area through /wp-admin/ or wp-login.php without a hidden key!
-	Version: 1.0
+	Version: 1.2
 	Author: Blackbird Interactive
 	Author URI: http://blackbirdi.com
 	License: GPL2

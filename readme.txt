@@ -1,4 +1,4 @@
-=== WP Block Admin ===
+=== WP Admin Block ===
 Contributors: justingreerbbi, Blackbird Interactive
 Donate link: http://blackbirdi.com/
 Tags: Auth, admin
