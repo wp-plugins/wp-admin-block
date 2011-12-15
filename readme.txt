@@ -6,11 +6,11 @@ Requires at least: 3.0
 Tested up to: 3.2.1
 Stable tag: 1.2
 
-WP Block Admin is a simple plugin that allows you to restrict access to the defualt Wordpress admin panel. This plugin works great if you are running WPMU and you do not want your users to use the default admin panel.
+WP Block Admin is a simple plugin that allows you to restrict access to the default Wordpress admin panel. This plugin works great if you are running WPMU and you do not want your users to use the default admin panel.
 
 == Description ==
 
-Wp Black Admin allows you to enter a user defined key (set in the plugin options) that be used to enter the wp-login page. Any attempts to get to access the login screen without the secret key will result in the user being redirected back to the root url. If the user does manage to get the login screen and login, they will be redirect back to the root url aswell. Only user ID of 1 is able to be in the admin panel.
+WP Admin Block allows you to enter a user defined key (set in the plugin options) that be used to enter the wp-login page. Any attempts to get to access the login screen without the secret key will result in the user being redirected back to the root url. If the user does manage to get the login screen and login, they will be redirect back to the root url aswell. Only user ID of 1 is able to be in the admin panel.
 
 
 This plugin is very new and and we are sure tat there is some bugs and wanted features. To report a bug or request a feature please visit http://blog.blackbirdi.com and leave a comment.
